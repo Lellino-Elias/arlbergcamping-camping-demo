@@ -33,7 +33,7 @@ const arlbergcamping: CampsiteConfig = {
     {
       title: "Sommer wie Winter offen",
       text: "Ob Bergsommer oder Skiwinter — der Platz ist ganzjährig geöffnet und bietet viel Raum für Erholung.",
-      image: { src: `${IMG}/gallery-ff7c87aee3.webp`, alt: "Wintercamping am Arlberg Camping vor verschneiter Bergkulisse" },
+      image: { src: `${IMG}/gallery-a26fd44582.webp`, alt: "Modernes Mietcabin am Arlberg Camping im Winter mit Bergblick auf das Klostertal" },
     },
     {
       title: "Gepflegt & modern",
@@ -72,12 +72,12 @@ const arlbergcamping: CampsiteConfig = {
       {
         title: "Stellplätze mit Strom",
         text: "80 Stromanschlüsse mit 6 Ampere, eigenes Gaslager sowie Frisch- und Abwasser sorgen für vollen Komfort.",
-        image: { src: `${IMG}/gallery-44e9eec89f.webp`, alt: "Sommerliche Stellplätze mit blühenden Blumen und Bergpanorama am Arlberg Camping" },
+        image: { src: `${IMG}/award-10370611de.png`, alt: "Luftaufnahme des Arlberg Camping mit Stellplätzen in der grünen Klosteral-Berglandschaft" },
       },
       {
         title: "Platz für alle",
         text: "Großzügige Plätze für Wohnwagen, Wohnmobil und Zelt, eingebettet in eine grüne Bergkulisse.",
-        image: { src: `${IMG}/gallery-83f4e483f8.webp`, alt: "Wohnmobile auf dem weitläufigen Stellplatzareal des Arlberg Camping im Winter" },
+        image: { src: `${IMG}/award-7968d8bc57.png`, alt: "Stellplätze und Holzcabins am Arlberg Camping vor dem Arlberger Bergpanorama im Sommer" },
       },
       {
         title: "Mitten in der Natur",
