@@ -72,12 +72,12 @@ const arlbergcamping: CampsiteConfig = {
       {
         title: "Stellplätze mit Strom",
         text: "80 Stromanschlüsse mit 6 Ampere, eigenes Gaslager sowie Frisch- und Abwasser sorgen für vollen Komfort.",
-        image: { src: `${IMG}/gallery-83f4e483f8.webp`, alt: "Wohnmobilstellplätze am Arlberg Camping mit Bergblick" },
+        image: { src: `${IMG}/gallery-44e9eec89f.webp`, alt: "Sommerliche Stellplätze mit blühenden Blumen und Bergpanorama am Arlberg Camping" },
       },
       {
         title: "Platz für alle",
         text: "Großzügige Plätze für Wohnwagen, Wohnmobil und Zelt, eingebettet in eine grüne Bergkulisse.",
-        image: { src: `${IMG}/gallery-44e9eec89f.webp`, alt: "Stellplätze mit Sommerblumen am Arlberg Camping" },
+        image: { src: `${IMG}/gallery-83f4e483f8.webp`, alt: "Wohnmobile auf dem weitläufigen Stellplatzareal des Arlberg Camping im Winter" },
       },
       {
         title: "Mitten in der Natur",
