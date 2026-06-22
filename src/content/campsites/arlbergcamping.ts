@@ -28,17 +28,17 @@ const arlbergcamping: CampsiteConfig = {
     {
       title: "Direkt an der Sonnenkopfbahn",
       text: "Die Anlage liegt direkt neben der Bergbahn — Skigebiet und Loipe sind nur wenige Gehminuten entfernt.",
-      image: { src: `${IMG}/gallery-f71dd7b9f3.webp`, alt: "Arlberg Camping vor der Bergkulisse im Klostertal" },
+      image: { src: `${IMG}/gallery-a26fd44582.webp`, alt: "Mietcabin am Arlberg Camping im Winter — direkt an der Sonnenkopfbahn mit Blick auf die verschneiten Arlberger Berge" },
     },
     {
       title: "Sommer wie Winter offen",
       text: "Ob Bergsommer oder Skiwinter — der Platz ist ganzjährig geöffnet und bietet viel Raum für Erholung.",
-      image: { src: `${IMG}/gallery-a26fd44582.webp`, alt: "Modernes Mietcabin am Arlberg Camping im Winter mit Bergblick auf das Klostertal" },
+      image: { src: `${IMG}/gallery-85524c4acf.webp`, alt: "Arlberg Camping Cabin im Sommer — modernes Holzhaus in grüner Berglandschaft" },
     },
     {
       title: "Gepflegt & modern",
       text: "Eine modern eingerichtete Anlage mit gehobener Sanitärausstattung — gepflegt und ganzjährig betreut.",
-      image: { src: `${IMG}/gallery-85524c4acf.webp`, alt: "Gepflegte Anlage des Arlberg Camping im Sommergrün" },
+      image: { src: `${IMG}/gallery-44e9eec89f.webp`, alt: "Gepflegte Anlage des Arlberg Camping im Sommer — blühende Stellplätze mit Alpenblick" },
     },
   ],
 
@@ -61,7 +61,7 @@ const arlbergcamping: CampsiteConfig = {
   awards: [],
 
   hero: {
-    aerial: { src: `${IMG}/gallery-a26fd44582.webp`, alt: "Arlberg Camping vor winterlicher Bergkulisse am Arlberg" },
+    aerial: { src: `${IMG}/gallery-f71dd7b9f3.webp`, alt: "Arlberg Camping im Sommer — Stellplätze und Holzchalets eingebettet in die Arlberger Bergwelt" },
   },
 
   camping: {
@@ -72,17 +72,17 @@ const arlbergcamping: CampsiteConfig = {
       {
         title: "Stellplätze mit Strom",
         text: "80 Stromanschlüsse mit 6 Ampere, eigenes Gaslager sowie Frisch- und Abwasser sorgen für vollen Komfort.",
-        image: { src: `${IMG}/award-10370611de.png`, alt: "Luftaufnahme des Arlberg Camping mit Stellplätzen in der grünen Klosteral-Berglandschaft" },
+        image: { src: `${IMG}/award-bc86dc97be.png`, alt: "Luftaufnahme des Arlberg Camping — Stellplätze eingebettet in die grüne Arlberger Berglandschaft" },
       },
       {
         title: "Platz für alle",
         text: "Großzügige Plätze für Wohnwagen, Wohnmobil und Zelt, eingebettet in eine grüne Bergkulisse.",
-        image: { src: `${IMG}/award-7968d8bc57.png`, alt: "Stellplätze und Holzcabins am Arlberg Camping vor dem Arlberger Bergpanorama im Sommer" },
+        image: { src: `${IMG}/award-7968d8bc57.png`, alt: "Holzchalets und Stellplätze am Arlberg Camping vor dem Arlberger Bergpanorama im Sommer" },
       },
       {
         title: "Mitten in der Natur",
         text: "Umgeben von einer atemberaubenden Naturkulisse findest du hier viel Raum für Erholung und Freizeit.",
-        image: { src: `${IMG}/award-bc86dc97be.png`, alt: "Luftaufnahme vom Arlberg Camping im Klostertal" },
+        image: { src: `${IMG}/award-72748b46e8.png`, alt: "Kinderspielplatz am Arlberg Camping — Spielmöglichkeiten inmitten der Arlberger Bergwelt" },
       },
     ],
   },
@@ -112,9 +112,9 @@ const arlbergcamping: CampsiteConfig = {
       "Ein paar Eindrücke vom Platz und seiner Lage in der Arlberger Bergwelt — bei Schnee und im satten Sommergrün.",
     tag: "Ganzjährig geöffnet",
     images: [
-      { src: `${IMG}/award-680f9de4e7.png`, alt: "Wohnmobil mit Bergblick am Arlberg Camping" },
-      { src: `${IMG}/award-10370611de.png`, alt: "Stellplätze für Zelte und Wohnwagen mit Alpenblick" },
-      { src: `${IMG}/award-7968d8bc57.png`, alt: "Campingbereich mit Bergpanorama am Arlberg Camping" },
+      { src: `${IMG}/award-680f9de4e7.png`, alt: "Wohnmobil am Arlberg Camping — Stellplatz mit Bergblick und Vorzelt im Sommer" },
+      { src: `${IMG}/gallery-ff7c87aee3.webp`, alt: "Mietcabin am Arlberg Camping im Winter — komfortables Übernachten in der verschneiten Bergwelt" },
+      { src: `${IMG}/award-10370611de.png`, alt: "Campingbereich des Arlberg Camping aus der Vogelperspektive — Zelte und Wohnwagen mit Alpenblick" },
     ],
   },
 
